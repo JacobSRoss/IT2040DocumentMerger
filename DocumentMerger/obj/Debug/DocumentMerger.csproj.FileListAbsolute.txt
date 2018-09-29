@@ -1,0 +1,7 @@
+C:\Users\Jacob 2015\Desktop\IT2040\DocumentMerger\DocumentMerger\bin\Debug\DocumentMerger.exe.config
+C:\Users\Jacob 2015\Desktop\IT2040\DocumentMerger\DocumentMerger\bin\Debug\DocumentMerger.exe
+C:\Users\Jacob 2015\Desktop\IT2040\DocumentMerger\DocumentMerger\bin\Debug\DocumentMerger.pdb
+C:\Users\Jacob 2015\Desktop\IT2040\DocumentMerger\DocumentMerger\obj\Debug\DocumentMerger.csprojAssemblyReference.cache
+C:\Users\Jacob 2015\Desktop\IT2040\DocumentMerger\DocumentMerger\obj\Debug\DocumentMerger.csproj.CoreCompileInputs.cache
+C:\Users\Jacob 2015\Desktop\IT2040\DocumentMerger\DocumentMerger\obj\Debug\DocumentMerger.exe
+C:\Users\Jacob 2015\Desktop\IT2040\DocumentMerger\DocumentMerger\obj\Debug\DocumentMerger.pdb
